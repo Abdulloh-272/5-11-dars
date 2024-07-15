@@ -1,0 +1,28 @@
+.i:hover {
+  border-radius: 50%;
+  background-color: rgba(143, 143, 143, 0.253);
+}
+
+.i {
+  width: 25px;
+  height: 25px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(74, 73, 73);
+}
+
+.line {
+  text-decoration: line-through;
+  color: rgb(92, 91, 91);
+}
+
+.color {
+  background-color: rgb(255, 0, 0);
+}
+
+.check {
+  color: white;
+  font-size: 10px;
+}
